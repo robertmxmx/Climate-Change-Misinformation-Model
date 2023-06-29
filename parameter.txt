@@ -1,0 +1,14 @@
+mu = -0.098
+sigma = 0.493
+N = 200 
+inoculation_selection = 0 
+alpha = 0.1 
+v = 0.1 
+C = 2 
+delta = 0.04 
+E = 0.8 
+attitude_multiplier = 5
+proportion_inoculated = 0.80
+number_of_central_nodes = 3 
+number_of_times_to_run = 3
+iterations = 200
